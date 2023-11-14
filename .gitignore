@@ -1,0 +1,11 @@
+.idea/.gitignore
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/Wav2Lip-GFPGAN.iml
+.idea/inspectionProfiles/profiles_settings.xml
+outputs/*.*
+outputs/frames/*.jpg
+outputs/restored_imgs/*.jpg
+inputs/*.*

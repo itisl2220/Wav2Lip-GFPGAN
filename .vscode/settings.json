@@ -1,0 +1,17 @@
+{
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "editor.formatOnType": false,
+  "notebook.formatOnSave.enabled": false,
+  "cSpell.words": [
+    "astype",
+    "DIVX",
+    "fourcc",
+    "imread",
+    "imwrite",
+    "melspectrogram",
+    "padx",
+    "pady",
+    "tqdm"
+  ]
+}
